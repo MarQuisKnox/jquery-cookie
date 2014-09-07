@@ -2,13 +2,13 @@
 
 A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 
-## This fork contains the following improvements:
+## This fork (@MarQuisKnox) contains the following improvements:
 
 <ol>
 <li>An 'onSet' callback (optional)</li>
 <li>An 'onRemove' callback (optional)</li>
 </ol>
-
+<br>
 
 **If you're viewing this at https://github.com/carhartl/jquery-cookie, you're reading the documentation for the master branch.
 [View documentation for the latest release (1.4.1).](https://github.com/carhartl/jquery-cookie/tree/v1.4.1)**
